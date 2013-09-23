@@ -1,0 +1,12 @@
+---
+layout: post
+title: "ademily hello word"
+date: 2013-09-23 09:13
+comments: true
+categories: 
+---
+#我的octopress终于搭起来嘍！
+之前一直没弄对，后来重新安装了一下终于弄起来了，内心好开森。hoho～～
+
+待会儿看看评论系统怎么弄。弄完之后，重新布局自己的github。
+然后写个教程弄这个
