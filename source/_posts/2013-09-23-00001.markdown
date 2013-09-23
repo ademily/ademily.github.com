@@ -1,0 +1,9 @@
+---
+layout: post
+title: "00001"
+date: 2013-09-23 11:09
+comments: true
+categories: 
+---
+#new start
+test 00001
