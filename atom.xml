@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://ademily.github.io/atom.xml" rel="self"/>
+  <link href="http://ademily.github.io/"/>
+  <updated>2013-09-23T09:24:35+08:00</updated>
+  <id>http://ademily.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[我的明天]]></title>
+    <link href="http://ademily.github.io/blog/2013/09/23/wo-de-ming-tian/"/>
+    <updated>2013-09-23T09:22:00+08:00</updated>
+    <id>http://ademily.github.io/blog/2013/09/23/wo-de-ming-tian</id>
+    <content type="html"><![CDATA[<h2>测试第二篇文章，hoho</h2>
+
+<p>嘿嘿呃
+加油哦</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ademily hello word]]></title>
+    <link href="http://ademily.github.io/blog/2013/09/23/hhaha/"/>
+    <updated>2013-09-23T09:13:00+08:00</updated>
+    <id>http://ademily.github.io/blog/2013/09/23/hhaha</id>
+    <content type="html"><![CDATA[<h1>我的octopress终于搭起来嘍！</h1>
+
+<p>之前一直没弄对，后来重新安装了一下终于弄起来了，内心好开森。hoho～～</p>
+
+<p>待会儿看看评论系统怎么弄。弄完之后，重新布局自己的github。
+然后写个教程弄这个</p>
+]]></content>
+  </entry>
+  
+</feed>
